@@ -10,7 +10,7 @@ tags: machine-learning, reactjs, 100daysofcode, learn-in-public, data-structure-
 
 #### Introduction 👋
 
-Hello! I’m Mohit Goyal, a sophomore, pursuing a Cs degree. I aim to gain knowledge of MERN stack and Machine Learning and land at least one internship before my pre-final year. This post chronicles my 100 Days of Code journey, where I committed to coding every day for 100 days straight. Whether you’re a fellow coder, a curious onlooker, or someone considering their coding challenge, I hope my experiences resonate with and inspire you.
+Hello! I’m Mohit Goyal, a sophomore, pursuing a Computer Science degree. I aim to gain knowledge of MERN stack and Machine Learning and land at least one internship before my pre-final year. This post chronicles my 100 Days of Code journey, where I committed to coding every day for 100 days straight. Whether you’re a fellow coder, a curious onlooker, or someone considering their coding challenge, I hope my experiences resonate with and inspire you.
 
 #### The Beginning 🌱
 
@@ -86,7 +86,7 @@ Throughout my 100 Days of Code journey, I built several projects that helped me 
 * **Learning outcomes:** Gained hands-on experience with React hooks and functional components, Learned to integrate and work with advanced AI APIs (Gemini) and Enhanced UI/UX design skills
     
 
-**SMS Spam Classifier**
+**SMS Spam Classifier |** [**here**](https://github.com/MohitGoyal09/SMS-spam)
 
 * **Technologies used:** Python, Jupiter NoteBook
     
