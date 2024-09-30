@@ -18,7 +18,7 @@ On [Day 1](https://x.com/ByteMohit/status/1803687281984938116) of this journey, 
 
 **My aims?**
 
-1. Master the Data structures and Algorithms
+1. Master the Data structures and Algorithms.
     
 2. Learn about various Machine Learning Algorithms
     
@@ -59,7 +59,7 @@ On [Day 1](https://x.com/ByteMohit/status/1803687281984938116) of this journey, 
 
 Throughout my 100 Days of Code journey, I built several projects that helped me apply and reinforce my learning. Here are some highlights:
 
-**Paytm Simple Clone**
+**Paytm Simple Clone |** [**here**](https://github.com/MohitGoyal09/paytm-simple)
 
 * **Technologies used:** React, Node.js, MongoDB, ShadCn Ui
     
@@ -95,7 +95,7 @@ Throughout my 100 Days of Code journey, I built several projects that helped me 
 * **Learning outcomes:** Learned about NLP for processing text data, implemented various machine learning algorithms
     
 
-Each project presented unique challenges and learning opportunities, contributing significantly to my growth as a developer
+Each project presented unique challenges and learning opportunities, contributing significantly to my growth as a developer.
 
 ### Biggest Challenges and Solutions 💪
 
