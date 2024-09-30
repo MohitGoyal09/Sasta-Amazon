@@ -59,7 +59,7 @@ On [Day 1](https://x.com/ByteMohit/status/1803687281984938116) of this journey, 
 
 Throughout my 100 Days of Code journey, I built several projects that helped me apply and reinforce my learning. Here are some highlights:
 
-**Paytm Simple Clone |** [**here**](https://github.com/MohitGoyal09/paytm-simple)
+**Paytm Simple Clone |** [Repo Link](https://github.com/MohitGoyal09/paytm-simple)
 
 * **Technologies used:** React, Node.js, MongoDB, ShadCn Ui
     
@@ -68,7 +68,7 @@ Throughout my 100 Days of Code journey, I built several projects that helped me 
 * **Learning outcome:** Gained full-stack development experience
     
 
-**SmartiCalc |** [**here**](https://github.com/MohitGoyal09/SmartiCalc)
+**SmartiCalc |** [Repo Link](https://github.com/MohitGoyal09/SmartiCalc)
 
 * **Technologies used:** React, TypeScript, Vercel, Git, ShadCn, Mantine, Google’s Gemini API
     
@@ -77,7 +77,7 @@ Throughout my 100 Days of Code journey, I built several projects that helped me 
 * **Learning outcome:** Learned to work with APIs, TypeScript, and various UI libraries
     
 
-**TextractAI**
+**TextractAI |** [Repo Link](https://github.com/MohitGoyal09/TextractAI)
 
 * **Technologies used:** React.js, ShadCn UI library, Google’s Gemini API
     
@@ -86,7 +86,7 @@ Throughout my 100 Days of Code journey, I built several projects that helped me 
 * **Learning outcomes:** Gained hands-on experience with React hooks and functional components, Learned to integrate and work with advanced AI APIs (Gemini) and Enhanced UI/UX design skills
     
 
-**SMS Spam Classifier |** [**here**](https://github.com/MohitGoyal09/SMS-spam)
+**SMS Spam Classifier |** [Repo Link](https://github.com/MohitGoyal09/SMS-spam)
 
 * **Technologies used:** Python, Jupiter NoteBook
     
