@@ -68,7 +68,7 @@ Throughout my 100 Days of Code journey, I built several projects that helped me 
 * **Learning outcome:** Gained full-stack development experience
     
 
-**SmartiCalc**
+**SmartiCalc |** [**here**](https://github.com/MohitGoyal09/SmartiCalc)
 
 * **Technologies used:** React, TypeScript, Vercel, Git, ShadCn, Mantine, Google’s Gemini API
     
